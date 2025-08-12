@@ -1,4 +1,4 @@
-# Image-Processing2
+# Image-Processing 2
 Finding Angles
 
 
